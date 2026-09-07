@@ -2509,7 +2509,7 @@
   },
   {
     "id": 251,
-    "title": "Garron",
+    "title": "The Rycke",
     "author": "Lily Mayne",
     "genre": "Dark Romance",
     "description": "Book three of the Monstrous MM romance series.",
@@ -2517,6 +2517,61 @@
     "pages": 410,
     "coverImage": "images3/book251.webp",
     "downloadLink": "DOWNLOAD_251"
+  },
+  {
+    "id": 1000,
+    "title": "Wyn",
+    "author": "Lily Mayne",
+    "genre": "Dark Romance",
+    "description": "Book four of the Monstrous MM romance series.",
+    "year": 2022,
+    "pages": 410,
+    "coverImage": "images3/book1000.webp",
+    "downloadLink": "DOWNLOAD_1000"
+  },
+    {
+    "id": 1001,
+    "title": "Gloam",
+    "author": "Lily Mayne",
+    "genre": "Dark Romance",
+    "description": "Book five of the Monstrous MM romance series.",
+    "year": 2022,
+    "pages": 410,
+    "coverImage": "images3/book1001.webp",
+    "downloadLink": "DOWNLOAD_1001"
+  },
+    {
+    "id": 1002,
+    "title": "Moth",
+    "author": "Lily Mayne",
+    "genre": "Dark Romance",
+    "description": "Book six of the Monstrous MM romance series.",
+    "year": 2022,
+    "pages": 410,
+    "coverImage": "images3/book1002.webp",
+    "downloadLink": "DOWNLOAD_1002"
+  },
+  {
+    "id": 1003,
+    "title": "Seraph",
+    "author": "Lily Mayne",
+    "genre": "Dark Romance",
+    "description": "Book seven of the Monstrous MM romance series.",
+    "year": 2022,
+    "pages": 410,
+    "coverImage": "images3/book1003.webp",
+    "downloadLink": "DOWNLOAD_1003"
+  },
+  {
+    "id": 1004,
+    "title": "Lor",
+    "author": "Lily Mayne",
+    "genre": "Dark Romance",
+    "description": "Book eight of the Monstrous MM romance series.",
+    "year": 2022,
+    "pages": 410,
+    "coverImage": "images3/book1004.webp",
+    "downloadLink": "DOWNLOAD_1004"
   },
   {
     "id": 252,
